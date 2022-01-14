@@ -9,5 +9,6 @@ I'm a student of college, Furture Full Stack developer.
 
 **SKILLS**
 
-[<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ADevicon-ruby-plain.svg&psig=AOvVaw0o4tXar68iY3-A8hNC0vGr&ust=1642280005067000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjZ6PSPsvUCFQAAAAAdAAAAABAR" alt="Ruby" width="26px">] Ruby
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+
 
