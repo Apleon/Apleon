@@ -7,7 +7,7 @@ I'm a student of college, Furture Full Stack developer.
 - 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
 - ⚡ Fun fact: I love swimming and gym training
 
-**SKILLS & Tools**
+**SKILLS & TOOLS**
 
 <img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" />
 <img align="left" alt="CSS3" width="26px" src="https://static.cdnlogo.com/logos/c/18/css.svg" />
