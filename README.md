@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student of college, Furture Full Stack developer.
+My name is Andrew. I'm a student of college, Furture Full Stack developer.
 
 - 🌱 I’m currently learning: Ruby basics, HTML5, CSS3.
 - 👯 I’m looking to collaborate with other students.
