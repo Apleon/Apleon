@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a student of college, Future Full Stack developer.</h3>
 
-![](https://komarev.com/ghpvc/?username=Apleon)
+[![codewars](https://www.codewars.com/users/Apleon/badges/large)](https://www.codewars.com/Apleon/username)
 
 - 🌱 I’m currently learning: Ruby basics, HTML5, CSS3.
 - 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
