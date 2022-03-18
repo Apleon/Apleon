@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'm a student of college, Future Full Stack developer.</h3>
 
+![](https://komarev.com/ghpvc/?username=Apleon)
+
 - 🌱 I’m currently learning: Ruby basics, HTML5, CSS3.
 - 👯 I’m looking to collaborate with other students.
 - 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
@@ -17,3 +19,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+**STREAKS STATS**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apleon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+**USAGE OF LANGUAGES**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apleon&layout=compact)](https://github.com/Apleon/github-readme-stats)
