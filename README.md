@@ -5,7 +5,6 @@
 ![](https://komarev.com/ghpvc/?username=Apleon)
 
 - 🌱 I’m currently learning: Ruby basics, HTML5, CSS3.
-- 👯 I’m looking to collaborate with other students.
 - 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
 - ⚡ Fact: I love swimming and gym training
 
