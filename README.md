@@ -25,4 +25,4 @@
 
 ## USAGE OF LANGUAGES
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apleon&layout=compact)](https://github.com/Apleon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apleon&layout=full)](https://github.com/Apleon/github-readme-stats)
