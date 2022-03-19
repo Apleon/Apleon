@@ -10,7 +10,6 @@
 
 ## SKILLS & TOOLS
 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -20,10 +19,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-**STREAKS STATS**
+## STREAKS STATS
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apleon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-**USAGE OF LANGUAGES**
+## USAGE OF LANGUAGES
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apleon&layout=compact)](https://github.com/Apleon/github-readme-stats)
