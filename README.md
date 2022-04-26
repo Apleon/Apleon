@@ -4,7 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/Apleon/badges/large)](https://www.codewars.com/Apleon/username)
 
-- 🌱 I’m currently learning: Ruby basics, HTML5, CSS3.
+- 🌱 I’m currently learning: HTML5, CSS3, Node.js, Javascript.
 - 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
 - ⚡ Fact: I love swimming and gym training
 
