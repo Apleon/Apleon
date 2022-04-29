@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning: HTML5, CSS3, Node.js, Javascript.
 - 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
-- ⚡ Fact: I love swimming and gym training
 
 ## SKILLS & TOOLS
 
