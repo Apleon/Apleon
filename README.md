@@ -21,7 +21,3 @@
 ## STREAKS STATS
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apleon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## USAGE OF LANGUAGES
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apleon&layout=full)](https://github.com/Apleon/github-readme-stats)
