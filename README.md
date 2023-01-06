@@ -3,8 +3,8 @@
 
 [![codewars](https://www.codewars.com/users/Apleon/badges/large)](https://www.codewars.com/Apleon/username)
 
-- 🌱 I’m currently learning: HTML5, CSS3, Node.js, Javascript.
-- 🥅 2022 Goals: learn Ruby and Javascript and theirs frameworks
+- 🌱 I’m currently learning: Ruby
+- 🥅 2023 Goals: learn Ruby
 
 ## SKILLS & TOOLS
 
