@@ -3,9 +3,6 @@
 
 [![codewars](https://www.codewars.com/users/Apleon/badges/large)](https://www.codewars.com/Apleon/username)
 
-- 🌱 I’m currently learning: Ruby
-- 🥅 2023 Goals: learn Ruby
-
 ## SKILLS & TOOLS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
