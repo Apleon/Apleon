@@ -9,7 +9,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## STREAKS STATS
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apleon&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
